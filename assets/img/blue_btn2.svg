@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15">
+            <rect id="Rectangle" fill="#0B50AF" x="0" y="0" width="32" height="32" rx="16"></rect>
+            <path d="M21.1525552,12.9560889 C20.9444366,12.7479704 20.6080187,12.7479704 20.3999002,12.9560889 L14.9209762,18.4349879 L9.44207719,12.9560889 C9.23395867,12.7479704 8.89754074,12.7479704 8.68942222,12.9560889 C8.4813037,13.1642074 8.4813037,13.5006253 8.68942222,13.7087439 L14.5446612,19.5639828 C14.6484585,19.6677801 14.7847173,19.7199532 14.9210012,19.7199532 C15.057285,19.7199532 15.1935439,19.6677801 15.2973411,19.5639828 L21.1525801,13.7087439 C21.3606737,13.5006253 21.3606737,13.1642074 21.1525552,12.9560889 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" transform="translate(14.920990, 16.259977) rotate(90.000000) translate(-14.920990, -16.259977) "></path>
+        </g>
+    </g>
+</svg>

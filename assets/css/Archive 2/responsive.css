@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1200px) {
+	.deal_box{
+		margin-bottom: 12px;
+	}
+}
+@media only screen and (max-width: 992px) {
+	.carousel_txt{
+		top: 30px;
+		padding: 0 20px;
+	}
+	.carousel_box{
+		flex-wrap: wrap;
+	}
+	.carousel_box select{
+		border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+		border-right: none;
+	}
+	.carousel_box button.theme_btn{
+		margin-bottom: 15px;
+	}
+	.top_nav_flex{
+		display: none;
+	}
+	.hero_section  .carousel.slide.custom_crasoule .carousel-control-next, .hero_section  .carousel.slide.custom_crasoule .carousel-control-prev{
+		display: none;
+	}
+	ul.navbar-nav.ml-auto li.nav-item.mr-2{
+		margin-bottom: 10px;
+	}
+	.hot_deals{
+		flex-wrap: wrap;
+	}
+	.hot_deal_box{
+		margin-top: 20px;
+	}
+	.top_nav2.top_nav2{
+		display: block;
+	}
+	li.mobile_social{
+		display: block;
+	}
+}
+@media only screen and (max-width: 767px){
+	.carousel_txt h2{
+		font-size: 18px;
+	}
+	.sub_mit_btn.text-left button.theme_btn{
+		max-width: unset;
+	}
+	div#carousel.flexslider.custom_flex_slider {
+		display: none;
+	}
+	form#searchform span{
+		width: 100%;
+	}
+	form#searchform span#btn_serach{
+		margin: 12px;
+	}
+	form#searchform button.theme_btn{
+		width: 100%;
+		max-width: unset;
+		margin: 0;
+	}
+}
